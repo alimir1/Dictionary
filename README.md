@@ -1,6 +1,7 @@
 # Dictionary
 A Swift library to perform word searches in a dictionary
 <br />
+<br />
 **Author:** Ali Mir<br />
 **Date:** June 7, 2018<br />
 
