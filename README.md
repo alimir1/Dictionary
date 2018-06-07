@@ -17,15 +17,14 @@
 Simply drag [`Dictionary.swift`](/Dictionary.swift) to your project.
 
 # Usage
-Create an instance of `Dictionary`.<br />
-`words(with prefix: String)` - returns all words with given prefix<br />
-`isValid(word: String)` - A Boolean that indicates if a given String is a valid word in the English dictionary.<br />
-`isValid(prefix: String)` - A Boolean that indicates if a given String is a valid prefix in English dictionary.<br />
 ```SWIFT
 let dict = Dictionary()
 print(dict.words(with: "animal"))
+// => ["animality", "animallike", "animalistic", "animalculum", "animalcules", "animalist", "animalizing", "animalizes", "animalcule", "animalism", "animals", "animally", "animalization", "animalize", "animalcula", "animal", "animalized"]
 print(dict.isValid(word: "animal"))
+// => true
 print(dict.isValid(prefix: "joe"))
+// => true
 ```
 
 ## Notes
