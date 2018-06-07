@@ -1,8 +1,8 @@
 # Dictionary
 A Swift library to perform word searches in a dictionary
-
-**Author:** Ali Mir
-**Date:** June 7, 2018
+<br />
+**Author:** Ali Mir<br />
+**Date:** June 7, 2018<br />
 
 # Installation
 Simply drag [`Dictionary.swift`](/Dictionary.swift) to your project.
